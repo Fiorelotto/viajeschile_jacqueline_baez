@@ -18,8 +18,12 @@ body{
     justify-content: space-around;
 }
 
-.nav-blak{
+.nav-black{
     background-color: #000;
-    opacity: 0.9;
+    opacity: 0.95;
     color: white;
+}
+
+.card img{
+    height: 180px;
 }
